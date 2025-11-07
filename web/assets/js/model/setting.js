@@ -7,7 +7,7 @@ class AllSetting {
         this.webCertFile = "";
         this.webKeyFile = "";
         this.webBasePath = "/";
-        this.sessionMaxAge = 360;
+        this.sessionMaxAge = 0;
         this.pageSize = 25;
         this.expireDiff = 0;
         this.trafficDiff = 0;
